@@ -2,12 +2,15 @@
 *JPMorgan_completion_certificate_EXCEL Skills*
 
 **Overview**
+
 This virtual internship showcases five distinct tasks related to Excel functionalities, data analysis, automation, data visualization, and storytelling using PowerPoint. These tasks are designed to enhance efficiency, drive business decisions, and present insights effectively.
 
 **Task 1: Excel Key Shortcuts**
+
 In this task, various essential Excel shortcuts were explored. These shortcuts are widely used in daily operations by employees. At the end of this task, a quiz was conducted to test the knowledge gained.
 
 **Task 2: Conditional Formatting**
+
 In this task, sales account data was provided to apply various conditional formatting techniques. The following explorations were performed:
 
 - Highlight Formula Errors: Cells with formula errors were highlighted in purple with white text.
@@ -20,6 +23,7 @@ In this task, sales account data was provided to apply various conditional forma
 -Top 10% Unit Sales (2021): Cells in the top 10% of unit sales for 2021 were highlighted in blue.
 
 **Task 3: VBA Macros**
+
 Two macros were created to facilitate quick analysis of account sales data:
 
 - Sort by 5-Year CAGR: This macro sorts the entire spreadsheet by the 5-year CAGR in descending order, helping identify accounts with the highest sales growth over the past five years.
@@ -28,6 +32,7 @@ Two macros were created to facilitate quick analysis of account sales data:
 Both macros are linked to buttons that allow users to switch between these two sorting methods quickly.
 
 **Task 4: Data Visualization Dashboard**
+
 A comprehensive dashboard was created to visualize the sales data. Key visualizations include:
 
 - Unit sales by year
@@ -37,6 +42,7 @@ A comprehensive dashboard was created to visualize the sales data. Key visualiza
 - The dashboard provides insights that support data-driven business decisions.
 
 **Task 5: Storytelling with PowerPoint**
+
 A short PowerPoint presentation was created to communicate key insights from the data analysis and visualization. The presentation highlights:
 
 - Performance of accounts
@@ -47,4 +53,5 @@ A short PowerPoint presentation was created to communicate key insights from the
 This task emphasizes the importance of using visual storytelling to convey data-driven findings effectively.
 
 Conclusion
+
 This virtual internship demonstrates practical applications of Excel shortcuts, conditional formatting, VBA macros, data visualization, and storytelling techniques, all aimed at improving business operations and decision-making.
