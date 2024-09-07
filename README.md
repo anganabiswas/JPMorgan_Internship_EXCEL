@@ -1,5 +1,5 @@
 # JPMorgan_Internship_EXCEL
-JPMorgan_completion_certificate_EXCEL Skills
+*JPMorgan_completion_certificate_EXCEL Skills*
 
 **Overview**
 This virtual internship showcases five distinct tasks related to Excel functionalities, data analysis, automation, data visualization, and storytelling using PowerPoint. These tasks are designed to enhance efficiency, drive business decisions, and present insights effectively.
